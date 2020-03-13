@@ -1,0 +1,26 @@
+{
+  "name": "loopback",
+  "version": "1.0.0",
+  "description": "this is repository for learn loopback framework for make new API and learn by internet",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "slc": "node node_modules/strongloop/bin/slc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshjangid/node_js_loopback_framwork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshjangid/node_js_loopback_framwork/issues"
+  },
+  "homepage": "https://github.com/ganeshjangid/node_js_loopback_framwork#readme",
+  "dependencies": {
+    "loopback-cli": "^5.1.0",
+    "strongloop": "^6.0.3"
+  }
+}
